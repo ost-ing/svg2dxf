@@ -1,0 +1,9 @@
+ezdxf==1.4.4
+lxml==6.1.3
+matplotlib==3.11.2
+numpy==2.5.4
+scipy==1.18.1
+shapely==2.2.0
+svgpathtools==1.8.0
+svgwrite==1.4.3
+XLML==0.1.2
